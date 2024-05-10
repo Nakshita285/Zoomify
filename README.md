@@ -1,5 +1,6 @@
 "Zoomify: Powering Your World, One Connection at a Time"
 
+
 Introducing Zoomify:
 
 **SEAMLESS VIDEO CALLS:** Enjoy crystal-clear audio and high-definition video for immersive conversations.
@@ -13,6 +14,8 @@ Introducing Zoomify:
 **CROSS-PLATFORM COMPATIBILITY:** Access Zoomify from any device or platform, including desktops, laptops, tablets, and smartphones.
 
 **EMPOWERING CONNECTIVITY:** Zoomify empowers you to connect, communicate, and succeed, whether you're across the globe or just across the hallway.
+
+
 
 Created by:-
 **Nakshita Malhotra**
